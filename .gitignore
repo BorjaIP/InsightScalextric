@@ -88,9 +88,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
-#Add pyd to proyect
-!LeapPython.pyd
-
 #Apple
 *.DS_Store
 .AppleDouble
